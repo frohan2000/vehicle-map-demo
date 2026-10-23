@@ -1,7 +1,7 @@
 {
   "vehicle-positions-graphql-endpoint": "https://api.entur.io/realtime/v2/vehicles/graphql",
   "vehicle-positions-subscriptions-endpoint": "wss://api.entur.io/realtime/v2/vehicles/subscriptions",
-  "vehicle-positions-et-client-name": "ola_nordmann-busskart",
+  "vehicle-positions-et-client-name": "frode_hansen-busskart",
   "nib-token-endpoint": "https://api.entur.io/baat-token-proxy/v1/token",
   "weather-nowcast-endpoint": "https://api.met.no/weatherapi/nowcast/2.0/complete"
 }
